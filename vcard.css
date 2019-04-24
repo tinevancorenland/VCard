@@ -1,7 +1,7 @@
 .card {
+  margin: auto;
   box-shadow: 0 6px 10px 0 rgba(0, 0, 0, 0.2);
   max-width: 300px;
-  margin: auto;
   text-align: center;
 }
 
